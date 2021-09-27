@@ -16,12 +16,12 @@ h1 {
   margin-bottom: 20px;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: aqua;
+  background-color:red;
 }
 
 .input-field .fa {
   width: 15%;
-  color: white;
+  color: blue;
 }
 
 .input-field input {
@@ -37,7 +37,7 @@ h1 {
   display: block;
   width: 80%;
   margin: 0 auto;
-  background:aqua;
+  background:blue;
   border-radius: 3px;
   color: black;
   margin-bottom: 20px;
